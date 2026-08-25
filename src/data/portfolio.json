@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "siteName": "Gustavo Bueno",
+    "photo": "/img/profile.jpg",
+    "resumePdf": "https://docs.google.com/document/d/1Fkv6YyktoJyr5E5bGFZAP2SY-DWLrvMYkQWSvvJE-5U/edit?usp=sharing"
+  },
+
+  "profile": {
+    "firstName": "Gustavo",
+    "lastName": "Bueno",
+    "location": "Rio Claro, RJ - Brasil",
+    "email": "gbueno360@gmail.com",
+    "title": {
+      "pt-BR": "Desenvolvedor Web Full-Stack",
+      "en": "Full-Stack Web Developer"
+    },
+    "summary": {
+      "pt-BR": "Desenvolvedor web e estudante de Sistemas de Informação, com experiência em Vue.js, Laravel e PHP.",
+      "en": "Web developer and Information Systems student, experienced in Vue.js, Laravel and PHP."
+    }
+  },
+
+  "social": [
+    { "icon": "fa-brands fa-linkedin-in", "label": "LinkedIn", "url": "https://www.linkedin.com/in/gustavo-bueno-282389136/" },
+    { "icon": "fa-brands fa-github", "label": "GitHub", "url": "https://github.com/BuenoDev" },
+    { "icon": "fa-brands fa-facebook-f", "label": "Facebook", "url": "https://www.facebook.com/gustavo.bueno.771" },
+    { "icon": "fa-solid fa-file-pdf", "label": "Currículo (PDF)", "url": "https://docs.google.com/document/d/1Fkv6YyktoJyr5E5bGFZAP2SY-DWLrvMYkQWSvvJE-5U/edit?usp=sharing" }
+  ],
+
+  "experience": [
+    {
+      "role": { "pt-BR": "Estagiário e Desenvolvedor Junior", "en": "Intern & Junior Developer" },
+      "company": "NeoProj - Soluções em Sistemas",
+      "period": { "pt-BR": "Junho 2018 - Janeiro 2019", "en": "June 2018 - January 2019" },
+      "description": {
+        "pt-BR": "Desenvolvimento do NeoClinic v2, sistema de gerenciamento de clínicas e consultórios médicos. Responsável pelo módulo de agendamento da versão 2. Desenvolvido com PHP 7 e jQuery.",
+        "en": "Development of NeoClinic v2, a clinic and medical office management system. Responsible for the version 2 scheduling module. Built with PHP 7 and jQuery."
+      },
+      "technologies": ["PHP 7", "jQuery"],
+      "image": null
+    },
+    {
+      "role": { "pt-BR": "Desenvolvedor Full-Stack", "en": "Full-Stack Web Developer" },
+      "company": "Freelancer",
+      "period": { "pt-BR": "Janeiro 2019 - Atual", "en": "January 2019 - Present" },
+      "description": {
+        "pt-BR": "Sistema de cadastro de pacientes e API JSON para telas de chamada na recepção. Desenvolvido com Laravel 5.7 e Vue 2.",
+        "en": "Patient registration system and JSON API for reception call-screens. Built with Laravel 5.7 and Vue 2."
+      },
+      "technologies": ["Laravel 5.7", "Vue 2"],
+      "image": "/img/chamada.png"
+    },
+    {
+      "role": { "pt-BR": "Desenvolvedor Junior", "en": "Junior Developer" },
+      "company": "Kodity",
+      "period": { "pt-BR": "Maio 2019 - Outubro 2019", "en": "May 2019 - October 2019" },
+      "description": {
+        "pt-BR": "Desenvolvedor de software na Kodity, atuando com Laravel e Vue.js (Quasar Framework).",
+        "en": "Software developer at Kodity, working with Laravel and Vue.js (Quasar Framework)."
+      },
+      "technologies": ["Laravel", "Vue.js", "Quasar Framework"],
+      "companyUrl": "https://kodity.com",
+      "image": null
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "UBM - Centro Universitário de Barra Mansa",
+      "degree": { "pt-BR": "Bacharelado em Sistemas de Informação (cursando - 8º Período)", "en": "Bachelor's in Information Systems (in progress - 8th term)" },
+      "period": { "pt-BR": "Janeiro 2016 - Presente", "en": "January 2016 - Present" }
+    }
+  ],
+
+  "skills": {
+    "tools": [
+      { "icon": "fa-brands fa-html5", "name": "HTML5" },
+      { "icon": "fa-brands fa-css3-alt", "name": "CSS3" },
+      { "icon": "fa-brands fa-js-square", "name": "JavaScript" },
+      { "icon": "fa-brands fa-vuejs", "name": "Vue.js" },
+      { "icon": "fa-brands fa-laravel", "name": "Laravel" },
+      { "icon": "fa-brands fa-sass", "name": "Sass" },
+      { "icon": "fa-brands fa-npm", "name": "npm" },
+      { "icon": "fa-brands fa-linux", "name": "Linux" },
+      { "icon": "fa-brands fa-git-alt", "name": "Git" }
+    ],
+    "languages": [
+      { "pt-BR": "Inglês Avançado", "en": "Advanced English" }
+    ]
+  },
+
+  "interests": {
+    "pt-BR": "Aficionado por tecnologia e programador por amor. Sempre ligado nos últimos lançamentos de tecnologia e video-games.",
+    "en": "Passionate about technology and programming. Always up to date with the latest tech and video-game releases."
+  },
+
+  "awards": [
+    {
+      "title": { "pt-BR": "1º Lugar - Hackathon Firjan APL 2018", "en": "1st Place - Firjan APL Hackathon 2018" },
+      "url": "https://avozdacidade.com/wp/alunos-do-ubm-vencem-a-maratona-de-programacao-hackathon-apl-metalmecanico/"
+    }
+  ]
+}

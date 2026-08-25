@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "experience": "Experiência",
+    "education": "Formação",
+    "skills": "Habilidades",
+    "interests": "Interesses",
+    "awards": "Prêmios"
+  },
+  "hero": {
+    "cta": "Fale comigo"
+  },
+  "sections": {
+    "experience": "Experiência",
+    "education": "Formação",
+    "skills": "Habilidades",
+    "languages": "Idiomas",
+    "interests": "Interesses",
+    "awards": "Prêmios & Certificações"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  },
+  "theme": {
+    "toggle": "Alternar tema",
+    "light": "Claro",
+    "dark": "Escuro",
+    "system": "Sistema"
+  },
+  "language": {
+    "label": "Idioma"
+  }
+}

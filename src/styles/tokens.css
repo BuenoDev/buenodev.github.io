@@ -1,0 +1,58 @@
+:root {
+  /* Cores - light */
+  --color-bg: #ffffff;
+  --color-bg-alt: #f4f6f8;
+  --color-text: #2d2d2d;
+  --color-text-muted: #5b6470;
+  --color-primary: #0d6efd;
+  --color-primary-contrast: #ffffff;
+  --color-border: #e2e6ea;
+  --color-surface: #ffffff;
+
+  /* Tipografia */
+  --font-heading: "Saira Extra Condensed", sans-serif;
+  --font-body: "Muli", sans-serif;
+
+  /* Spacing */
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+
+  /* Radius */
+  --radius-sm: 4px;
+  --radius-md: 10px;
+  --radius-lg: 20px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 6px 20px rgba(0, 0, 0, 0.08);
+
+  /* Transitions */
+  --transition-fast: 120ms ease;
+  --transition-normal: 240ms ease;
+
+  /* Layout */
+  --sidebar-width: 300px;
+}
+
+[data-theme='dark'] {
+  --color-bg: #14181d;
+  --color-bg-alt: #1b2027;
+  --color-text: #e8ecef;
+  --color-text-muted: #9aa4b1;
+  --color-primary: #4d9dff;
+  --color-primary-contrast: #0b1015;
+  --color-border: #2a303a;
+  --color-surface: #1b2027;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
